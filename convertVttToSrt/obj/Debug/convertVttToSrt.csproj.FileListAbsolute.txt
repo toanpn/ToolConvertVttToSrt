@@ -1,0 +1,9 @@
+E:\Dotnet\convertVttToSrt\convertVttToSrt\bin\Debug\convertVttToSrt.exe.config
+E:\Dotnet\convertVttToSrt\convertVttToSrt\bin\Debug\convertVttToSrt.exe
+E:\Dotnet\convertVttToSrt\convertVttToSrt\bin\Debug\convertVttToSrt.pdb
+E:\Dotnet\convertVttToSrt\convertVttToSrt\obj\Debug\convertVttToSrt.csprojAssemblyReference.cache
+E:\Dotnet\convertVttToSrt\convertVttToSrt\obj\Debug\convertVttToSrt.Form1.resources
+E:\Dotnet\convertVttToSrt\convertVttToSrt\obj\Debug\convertVttToSrt.Properties.Resources.resources
+E:\Dotnet\convertVttToSrt\convertVttToSrt\obj\Debug\convertVttToSrt.csproj.GenerateResource.cache
+E:\Dotnet\convertVttToSrt\convertVttToSrt\obj\Debug\convertVttToSrt.exe
+E:\Dotnet\convertVttToSrt\convertVttToSrt\obj\Debug\convertVttToSrt.pdb
